@@ -1,0 +1,15 @@
+C:\tl1-tp10-2026-mauricioRBN\Usuarios\obj\Debug\net10.0\Usuarios.GeneratedMSBuildEditorConfig.editorconfig
+C:\tl1-tp10-2026-mauricioRBN\Usuarios\obj\Debug\net10.0\Usuarios.AssemblyInfoInputs.cache
+C:\tl1-tp10-2026-mauricioRBN\Usuarios\obj\Debug\net10.0\Usuarios.AssemblyInfo.cs
+C:\tl1-tp10-2026-mauricioRBN\Usuarios\obj\Debug\net10.0\Usuarios.csproj.CoreCompileInputs.cache
+C:\tl1-tp10-2026-mauricioRBN\Usuarios\obj\Debug\net10.0\Usuarios.sourcelink.json
+C:\tl1-tp10-2026-mauricioRBN\Usuarios\bin\Debug\net10.0\Usuarios.exe
+C:\tl1-tp10-2026-mauricioRBN\Usuarios\bin\Debug\net10.0\Usuarios.deps.json
+C:\tl1-tp10-2026-mauricioRBN\Usuarios\bin\Debug\net10.0\Usuarios.runtimeconfig.json
+C:\tl1-tp10-2026-mauricioRBN\Usuarios\bin\Debug\net10.0\Usuarios.dll
+C:\tl1-tp10-2026-mauricioRBN\Usuarios\bin\Debug\net10.0\Usuarios.pdb
+C:\tl1-tp10-2026-mauricioRBN\Usuarios\obj\Debug\net10.0\Usuarios.dll
+C:\tl1-tp10-2026-mauricioRBN\Usuarios\obj\Debug\net10.0\refint\Usuarios.dll
+C:\tl1-tp10-2026-mauricioRBN\Usuarios\obj\Debug\net10.0\Usuarios.pdb
+C:\tl1-tp10-2026-mauricioRBN\Usuarios\obj\Debug\net10.0\Usuarios.genruntimeconfig.cache
+C:\tl1-tp10-2026-mauricioRBN\Usuarios\obj\Debug\net10.0\ref\Usuarios.dll
