@@ -1,0 +1,14 @@
+C:\tl1-tp10-2026-mauricioRBN\Tareas\bin\Debug\net10.0\Tareas.exe
+C:\tl1-tp10-2026-mauricioRBN\Tareas\bin\Debug\net10.0\Tareas.deps.json
+C:\tl1-tp10-2026-mauricioRBN\Tareas\bin\Debug\net10.0\Tareas.runtimeconfig.json
+C:\tl1-tp10-2026-mauricioRBN\Tareas\bin\Debug\net10.0\Tareas.dll
+C:\tl1-tp10-2026-mauricioRBN\Tareas\bin\Debug\net10.0\Tareas.pdb
+C:\tl1-tp10-2026-mauricioRBN\Tareas\obj\Debug\net10.0\Tareas.GeneratedMSBuildEditorConfig.editorconfig
+C:\tl1-tp10-2026-mauricioRBN\Tareas\obj\Debug\net10.0\Tareas.AssemblyInfoInputs.cache
+C:\tl1-tp10-2026-mauricioRBN\Tareas\obj\Debug\net10.0\Tareas.AssemblyInfo.cs
+C:\tl1-tp10-2026-mauricioRBN\Tareas\obj\Debug\net10.0\Tareas.csproj.CoreCompileInputs.cache
+C:\tl1-tp10-2026-mauricioRBN\Tareas\obj\Debug\net10.0\Tareas.dll
+C:\tl1-tp10-2026-mauricioRBN\Tareas\obj\Debug\net10.0\refint\Tareas.dll
+C:\tl1-tp10-2026-mauricioRBN\Tareas\obj\Debug\net10.0\Tareas.pdb
+C:\tl1-tp10-2026-mauricioRBN\Tareas\obj\Debug\net10.0\Tareas.genruntimeconfig.cache
+C:\tl1-tp10-2026-mauricioRBN\Tareas\obj\Debug\net10.0\ref\Tareas.dll
