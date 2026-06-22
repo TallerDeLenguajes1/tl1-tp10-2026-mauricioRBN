@@ -1,0 +1,15 @@
+C:\tl1-tp10-2026-mauricioRBN\MiWebApi\bin\Debug\net10.0\MiWebApi.exe
+C:\tl1-tp10-2026-mauricioRBN\MiWebApi\bin\Debug\net10.0\MiWebApi.deps.json
+C:\tl1-tp10-2026-mauricioRBN\MiWebApi\bin\Debug\net10.0\MiWebApi.runtimeconfig.json
+C:\tl1-tp10-2026-mauricioRBN\MiWebApi\bin\Debug\net10.0\MiWebApi.dll
+C:\tl1-tp10-2026-mauricioRBN\MiWebApi\bin\Debug\net10.0\MiWebApi.pdb
+C:\tl1-tp10-2026-mauricioRBN\MiWebApi\obj\Debug\net10.0\MiWebApi.GeneratedMSBuildEditorConfig.editorconfig
+C:\tl1-tp10-2026-mauricioRBN\MiWebApi\obj\Debug\net10.0\MiWebApi.AssemblyInfoInputs.cache
+C:\tl1-tp10-2026-mauricioRBN\MiWebApi\obj\Debug\net10.0\MiWebApi.AssemblyInfo.cs
+C:\tl1-tp10-2026-mauricioRBN\MiWebApi\obj\Debug\net10.0\MiWebApi.csproj.CoreCompileInputs.cache
+C:\tl1-tp10-2026-mauricioRBN\MiWebApi\obj\Debug\net10.0\MiWebApi.sourcelink.json
+C:\tl1-tp10-2026-mauricioRBN\MiWebApi\obj\Debug\net10.0\MiWebApi.dll
+C:\tl1-tp10-2026-mauricioRBN\MiWebApi\obj\Debug\net10.0\refint\MiWebApi.dll
+C:\tl1-tp10-2026-mauricioRBN\MiWebApi\obj\Debug\net10.0\MiWebApi.pdb
+C:\tl1-tp10-2026-mauricioRBN\MiWebApi\obj\Debug\net10.0\MiWebApi.genruntimeconfig.cache
+C:\tl1-tp10-2026-mauricioRBN\MiWebApi\obj\Debug\net10.0\ref\MiWebApi.dll
